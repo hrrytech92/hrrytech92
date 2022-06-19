@@ -22,9 +22,8 @@ I😄 am with extensive and rich knowledge of all software such as Website, Bloc
 
 ✅ Backend Skill 😄
 
--PHP/JavaSpring/Java/Laravel/Node.js/Python/Rust/Golang/Flask/Spring
--SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB),
-Redis
+- PHP/Laravel/Node.js/Python/Golang
+- SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB), Redis
 
 ✅ Cloud/DevOps 😄
 Firebase/Jenkins/JIRA/Docker/AWS
