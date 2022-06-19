@@ -4,7 +4,6 @@
 
 I😄 am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 8 years.
 
-📫 How to reach me: webdevguy85@gmail.com
 
 ✅ Blockchain Skill 😄
 
@@ -37,6 +36,7 @@ I have worked on numerous projects from concept to completion. Leads all stages 
 Be brave. It's never too late to make the world a better place.
 
 follow me! 🤔
+📫 How to reach me: webdevguy85@gmail.com
 
 <!--
 **TechWebGuy/TechWebGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
