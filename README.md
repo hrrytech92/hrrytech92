@@ -36,6 +36,7 @@ I have worked on numerous projects from concept to completion. Leads all stages 
 Be brave. It's never too late to make the world a better place.
 
 follow me! 🤔
+
 📫 How to reach me: webdevguy85@gmail.com
 
 <!--
