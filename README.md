@@ -17,6 +17,7 @@ I😄 am with extensive and rich knowledge of all software such as Website, Bloc
 - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
 - ReactJS/Hook/Context/Redux/Next.js
 - Vue.js/Vuex/Vuetify/Nuxt.js/Quasar
+- UI/UX frameworks/Material-UI/Ant-Design/Tailwind
 - TypeScript/Webpack
 
 ✅ Backend Skill 😄
