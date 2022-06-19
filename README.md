@@ -2,11 +2,11 @@
 
 I😄 am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 8 years.
 
-📫 How to reach me: webdevguy85@gmial.com
+📫 How to reach me: webdevguy85@gmail.com
 
 ✅ Blockchain Skill 😄
 
-- Smart Contract, DeFi, Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot
+- Smart Contract, DeFi, Ethereum, Solana, Avax, Wax, Algorand, Polygon, BSC, Polkadot
 - DApps development ; Solidity/Rust + web3.js/ethers.js
 - Solidity, Smart contract, ERC20, ERC721
 - Integration with crypto wallets such as Metamask.
@@ -15,7 +15,7 @@ I😄 am with extensive and rich knowledge of all software such as Blockchain, W
 ✅ Frontend Skill 😄
 - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
 - ReactJS/Redux/Next.js
-- Vue.js/Nuxt.js/Quasar
+- Vue.js/Vuex/Nuxt.js/Quasar
 - TypeScript/Webpack
 
 ✅ Backend Skill 😄
