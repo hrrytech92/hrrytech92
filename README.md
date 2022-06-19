@@ -2,7 +2,7 @@
 
 ##### About me
 
-I😄 am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 8 years.
+I😄 am with extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.
 
 
 ✅ Blockchain Skill 😄
@@ -15,8 +15,8 @@ I😄 am with extensive and rich knowledge of all software such as Blockchain, W
 
 ✅ Frontend Skill 😄
 - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
-- ReactJS/Redux/Next.js
-- Vue.js/Vuex/Nuxt.js/Quasar
+- ReactJS/Hook/Context/Redux/Next.js
+- Vue.js/Vuex/Vuetify/Nuxt.js/Quasar
 - TypeScript/Webpack
 
 ✅ Backend Skill 😄
@@ -32,6 +32,8 @@ Firebase/Jenkins/JIRA/Docker/AWS
 GitHub/GitLab/Bitbucket
 
 I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business finance experience.
+Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub.
+Especially I have some Devops engineering using Docker, AWS AppSync, AWS EC2, AWS Lambda, AWS S3, AWS RDS, etc.
 
 Be brave. It's never too late to make the world a better place.
 
