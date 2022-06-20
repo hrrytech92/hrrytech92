@@ -8,7 +8,8 @@
 
 I😄 possess extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.
 
-✅ Frontend Skill 😄
+
+✅ Frontend Skill
 - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
 - ReactJS/Hook/Context/Redux/Next.js
 - Vue.js/Vuex/Vuetify/Nuxt.js/Quasar
@@ -16,23 +17,23 @@ I😄 possess extensive and rich knowledge of all software such as Website, Bloc
 - TypeScript/Webpack
 
 
-✅ Backend Skill 😄
+✅ Backend Skill
 - PHP/Laravel/Node.js/Python/Golang
 - SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB, Oracle), Redis
 
 
-✅ Blockchain Skill 😄
+✅ Blockchain Skill
 - Smart Contract, DeFi, Ethereum, Solana, Avax, Wax, Algorand, Polygon, BSC, Polkadot
 - DApps development ; Solidity/Rust + web3.js/ethers.js
 - Solidity, Smart contract, ERC20, ERC721
 - Integration with crypto wallets such as Metamask.
 
 
-✅ Cloud/DevOps 😄
+✅ Cloud/DevOps
 Firebase/Jenkins/JIRA/Docker/AWS
 
 
-✅ Version Control System 😄
+✅ Version Control System
 GitHub/GitLab/Bitbucket
 
 
