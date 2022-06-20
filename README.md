@@ -7,6 +7,7 @@
 ### :woman_technologist: &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 I😄 possess extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.
+
 I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business finance experience.
 
 Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub.
@@ -20,6 +21,7 @@ follow me! 🤔
 
 📫 How to reach me: webdevguy85@gmail.com
 
+---
 
   ✅ Frontend Skill
   - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
