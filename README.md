@@ -2,6 +2,8 @@
 
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 ##### About me
 
 I😄 possess extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.
