@@ -7,6 +7,18 @@
 ### :woman_technologist: &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 I😄 possess extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.
+I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business finance experience.
+
+Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub.
+
+Especially I have some Devops engineering using Docker, AWS AppSync, AWS EC2, AWS Lambda, AWS S3, AWS RDS, etc.
+
+Be brave. It's never too late to make the world a better place.
+
+follow me! 🤔
+
+
+📫 How to reach me: webdevguy85@gmail.com
 
 
   ✅ Frontend Skill
@@ -36,19 +48,6 @@ I😄 possess extensive and rich knowledge of all software such as Website, Bloc
   ✅ Version Control System
   - GitHub/GitLab/Bitbucket
 
-
-I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business finance experience.
-
-Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub.
-
-Especially I have some Devops engineering using Docker, AWS AppSync, AWS EC2, AWS Lambda, AWS S3, AWS RDS, etc.
-
-Be brave. It's never too late to make the world a better place.
-
-follow me! 🤔
-
-
-📫 How to reach me: webdevguy85@gmail.com
 
 ---
 
