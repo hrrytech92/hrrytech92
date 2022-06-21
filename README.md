@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there <img src="./src/assets/hand.gif" width="40"></h1>
 
-<p align="center"><img src="[./src/assets/working.gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
