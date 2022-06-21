@@ -21,8 +21,6 @@ follow me! 🤔
 
 📫 How to reach me: webdevguy85@gmail.com
 
-<img src="./src/assets/snake.svg" width="100%" max-width="100%"/>
-
 ---
 
   ✅ Frontend Skill
@@ -55,7 +53,7 @@ follow me! 🤔
 
 ---
 
-<img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
+<img src="./src/assets/snake.svg" width="100%" max-width="100%"/>
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -80,6 +78,7 @@ follow me! 🤔
 
 ---
 
+<img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
 
 <!--
 **TechWebGuy/TechWebGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
