@@ -32,8 +32,8 @@ follow me! 🤔
 
 
   ✅ Backend Skill
-  - PHP/Laravel/Node.js/Python/Golang
-  - SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB, Oracle), Redis
+  - PHP/Laravel/Node & Express.js/Python/Django/Golang
+  - SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB, Oracle, Redis)
 
 
   ✅ Blockchain Skill
@@ -44,7 +44,7 @@ follow me! 🤔
 
 
   ✅ Cloud/DevOps
-  - Firebase/Jenkins/JIRA/Docker/AWS
+  - Firebase/Jenkins/JIRA/Docker/AWS Amplify/AWS AppSync/AWS S3/AWS Lamda
 
 
   ✅ Version Control System
