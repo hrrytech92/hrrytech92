@@ -21,6 +21,7 @@ follow me! 🤔
 
 📫 How to reach me: webdevguy85@gmail.com
 
+<img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
 ---
 
   ✅ Frontend Skill
