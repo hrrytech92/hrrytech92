@@ -26,6 +26,10 @@ follow me! 🤔
 
 ---
 
+<img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
+
+---
+
   ✅ Frontend Skill
   - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
   - ReactJS/Hook/Context/Redux/Next.js
