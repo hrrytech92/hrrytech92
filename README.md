@@ -28,7 +28,6 @@ follow me! 🤔
 
 <img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
 
----
 
   ✅ Frontend Skill
   - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
@@ -84,8 +83,6 @@ follow me! 🤔
 </p>
 
 ---
-
-<img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
 
 <!--
 **TechWebGuy/TechWebGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
