@@ -19,7 +19,7 @@ Be brave. It's never too late to make the world a better place.
 follow me! 🤔
 
 
-📫 How to reach me: <a href="webdevguy85@gmail.com"/>
+📫 How to reach me: webdevguy85@gmail.com
 
 ---
 
