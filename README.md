@@ -30,7 +30,7 @@ follow me! 🤔
 
 
   ✅ Frontend Skill
-  - HTML5/SCSS/CSS3/SVG/jQuery/JavaScript/BootStrap
+  - HTML5/SCSS/LESS/CSS3/SVG/jQuery/JavaScript/BootStrap
   - ReactJS/Hook/Context/Redux/Next.js
   - Vue.js/Vuex/Vuetify/Nuxt.js/Quasar
   - UI/UX frameworks/Material-UI/Ant-Design/Tailwind
@@ -50,7 +50,7 @@ follow me! 🤔
 
 
   ✅ Cloud/DevOps
-  - Firebase/Jenkins/JIRA/Docker/AWS Amplify/AWS AppSync/AWS S3/AWS Lamda
+  - Firebase/Jenkins/JIRA/Trello/Docker/AWS Amplify/AWS AppSync/AWS S3/AWS Lamda
 
 
   ✅ Version Control System
