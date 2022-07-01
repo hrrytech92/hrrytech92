@@ -30,7 +30,7 @@ follow me! 🤔
 
 
   ✅ Frontend Skill
-  - HTML5/SCSS/LESS/CSS3/SVG/jQuery/JavaScript/BootStrap
+  - HTML5/SCSS/LESS/CSS3/BootStrap/jQuery/JavaScript/TypeScript
   - ReactJS/Hook/Context/Redux/Next.js
   - Vue.js/Vuex/Vuetify/Nuxt.js/Quasar
   - UI/UX frameworks/Material-UI/Ant-Design/Tailwind
