@@ -57,7 +57,7 @@ follow me! 🤔
 
 ---
 
-<div align="center"><img src="./src/assets/animation.gif" width="30%"/></div>
+<!--<div align="center"><img src="./src/assets/animation.gif" width="30%"/></div>-->
 
 <img src="./src/assets/snake.svg" width="100%" max-width="100%"/>
 
