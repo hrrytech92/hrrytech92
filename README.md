@@ -7,17 +7,17 @@
 
 ---
 
-I😄 possess extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.
+I😄 possess extensive and rich knowledge of all software such as Website application and more for over 8 years.
 
 I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business finance experience.
 
-Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub.
+Work with the Agile/Scrum methodology and have experience with the following tools JIRA, Trello and GitHub.
 
-Especially I have some Devops engineering using Docker, AWS AppSync, AWS EC2, AWS Lambda, AWS S3, AWS RDS, etc.
+Especially I have some Devops engineering using Docker, AWS, GCP.
 
 Be brave. It's never too late to make the world a better place.
 
-follow me! 🤔
+Follow me! 🤔
 
 
 📫 How to reach me: webdevguy85@gmail.com
@@ -28,33 +28,40 @@ follow me! 🤔
 
 
   ✅ Frontend Skill
-  - HTML5/SCSS/LESS/CSS3/BootStrap/jQuery/JavaScript/TypeScript
-  - ReactJS/Hook/Context/Redux/Next.js
+  - HTML5/SCSS/LESS/CSS3/BootStrap/jQuery/JavaScript
+  - ReactJS/Hooks/Context/Redux/Next.js
   - Vue.js/Vuex/Vuetify/Nuxt.js/Quasar
   - UI/UX frameworks/Material-UI/Ant-Design/Tailwind
   - TypeScript/Webpack
 
 
-  ✅ Backend Skill
-  - PHP/Laravel/Node & Express.js/Python/Django/Golang
-  - SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB, Oracle, Redis)
+  ✅ Backend Skill 
+  - Python/Django/Flask/Fast API
+  - Node & Express.js, Nest
+  - Golang
+  - SQL and NoSQL (MySQL, MSSQL, PostgreSQL, MongoDB, Oracle, Redis)
+  - Automated software testing
 
 
-  ✅ Blockchain Skill
+<!--   ✅ Blockchain Skill
   - Smart Contract, DeFi, Ethereum, Solana, Avax, Wax, Algorand, Polygon, BSC, Polkadot
   - DApps development ; Solidity/Rust + web3.js/ethers.js
   - Solidity, Smart contract, ERC20, ERC721
-  - Integration with crypto wallets such as Metamask.
+  - Integration with crypto wallets such as Metamask. -->
 
 
   ✅ Cloud/DevOps
-  - Firebase/Jenkins/JIRA/Trello/Docker/AWS Amplify/AWS AppSync/AWS S3/AWS Lamda
+  - Docker, Docker Composer
+  - AWS (Lambda, API Gateway, S3, AWS AppSync, Cloud Watch, etc)
+  - Kubernets (GKE, EKS)
+  - GCP
 
-
-  ✅ Version Control System
-  - GitHub/GitLab/Bitbucket
-
-
+  ✅ Agile/Scrum methodology
+  - JIRA
+  - Trello
+  - Github
+  - Slack
+  
 ---
 
 <!--<div align="center"><img src="./src/assets/animation.gif" width="30%"/></div>-->
@@ -65,14 +72,14 @@ follow me! 🤔
 
 <table>
   <tr>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+<!--       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td> -->
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
