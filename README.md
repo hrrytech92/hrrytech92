@@ -1,10 +1,8 @@
 <!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
 <div style="display: flex">
-  <div style="width: 50%">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
-  </div>
-  <div style="width: 50%">
+    <div style="display: line-block" width="calc(100% - 600px)">
       I😄 possess extensive and rich knowledge of all software such as Website application and more for over 8 years.
       I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business financ experience.
       Work with the Agile/Scrum methodology and have experience with the following tools JIRA, Trello and GitHub.
