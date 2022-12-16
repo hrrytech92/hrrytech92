@@ -1,24 +1,26 @@
 <!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
-<div style="display: 'flex'">
-  <div>
+<div style="display: flex">
+  <div style="width: 50%">
     <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
   </div>
-  <div>
-    I😄 possess extensive and rich knowledge of all software such as Website application and more for over 8 years.
+  <div style="width: 50%">
+    <p>
+      I😄 possess extensive and rich knowledge of all software such as Website application and more for over 8 years.
 
-    I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business finance experience.
+      I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business finance              experience.
 
-    Work with the Agile/Scrum methodology and have experience with the following tools JIRA, Trello and GitHub.
+      Work with the Agile/Scrum methodology and have experience with the following tools JIRA, Trello and GitHub.
 
-    Especially I have some Devops engineering using Docker, AWS, GCP.
+      Especially I have some Devops engineering using Docker, AWS, GCP.
 
-    Be brave. It's never too late to make the world a better place.
+      Be brave. It's never too late to make the world a better place.
 
-    Follow me! 🤔
+      Follow me! 🤔
 
 
-    📫 How to reach me: webdevguy85@gmail.com
+      📫 How to reach me: webdevguy85@gmail.com
+    </p>
   </div>
 </div>
 
