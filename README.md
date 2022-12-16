@@ -2,7 +2,7 @@
 
 <div style="display: flex">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
-    <div style="display: line-block" width="calc(100% - 600px)">
+    <p>
       I😄 possess extensive and rich knowledge of all software such as Website application and more for over 8 years.
         
       I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business financ experience.
@@ -16,7 +16,7 @@
       Follow me! 🤔
 
       📫 How to reach me: webdevguy85@gmail.com
-  </div>
+  </p>
 </div>
 
 <img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
