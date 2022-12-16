@@ -5,7 +5,6 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
   </div>
   <div style="width: 50%">
-    <p>
       I😄 possess extensive and rich knowledge of all software such as Website application and more for over 8 years.
       I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, computer programming and business financ experience.
       Work with the Agile/Scrum methodology and have experience with the following tools JIRA, Trello and GitHub.
@@ -13,9 +12,7 @@
       Be brave. It's never too late to make the world a better place.
       Follow me! 🤔
 
-
       📫 How to reach me: webdevguy85@gmail.com
-    </p>
   </div>
 </div>
 
