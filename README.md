@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
     
     
-      I😄 possess extensive and rich knowledge of all software such as Website application and more for over 8 years.
+      I😄 possess extensive and rich knowledge of all software such as Website application and more for over 10 years.
         
       I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, 
       computer programming and business financ experience.
