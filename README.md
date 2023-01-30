@@ -4,10 +4,10 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
     
     
-      I😄 possess extensive and rich knowledge of all software such as Website application and more for over 10 years.
+      I😄 possess extensive and rich knowledge of all software such as Website applications and more for over 10 years.
         
       I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, 
-      computer programming and business financ experience.
+      computer programming and business finance experience.
         
       Work with the Agile/Scrum methodology and have experience with the following tools JIRA, Trello and GitHub.
         
@@ -49,7 +49,7 @@
 
   ✅ Cloud/DevOps
   - Docker, Docker Composer
-  - AWS (Lambda, API Gateway, S3, AWS AppSync, Cloud Watch, etc)
+  - AWS (Lambda, API Gateway, S3, Cognito, AppSync, Cloud Watch, SNS, SQS, etc)
   - Kubernets (GKE, EKS)
   - GCP
 
