@@ -24,7 +24,7 @@
 <img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
 
 
-  ✅ Frontend Skill1
+  ✅ Frontend Skill
   - HTML5/SCSS/LESS/CSS3/BootStrap/jQuery/JavaScript
   - ReactJS/Hooks/Context/Redux/Next.js
   - Vue.js/Vuex/Vuetify/Nuxt.js/Quasar
