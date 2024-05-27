@@ -4,18 +4,12 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
     
     
-      I😄 possess extensive and rich knowledge of all software such as Website applications and more for over 10 years.
-        
-      I have worked on numerous projects from concept to completion. Leads all stages of various technical projects, 
-      computer programming and business finance experience.
-        
-      Work with the Agile/Scrum methodology and have experience with the following tools JIRA, Trello and GitHub.
-        
-      Especially I have some Devops engineering using Docker, AWS, GCP.
-        
-      Be brave. It's never too late to make the world a better place.
-        
-      Follow me! 🤔
+      Equipped with over a decade of experience in software technology, I possess extensive expertise in a broad range of applications, particularly website applications.
+      Having handled numerous projects from inception to completion, my skills extend beyond software development to include project management, business finance, and computer programming.
+
+      My proficiency in Agile/Scrum methodologies has been honed through my hands-on experience with tools like JIRA, Trello, and GitHub. Additionally, I have noteworthy experience in DevOps engineering, utilizing platforms such as Docker, AWS, and GCP.
+
+      Passionate about leveraging technology to enhance business operations and drive innovations, I firmly believe that it’s never too late to make a positive impact on the world. I am ready and eager to apply my skills and experiences to new challenges.
 
       📫 How to reach me: webdevguy85@gmail.com
   
@@ -36,6 +30,7 @@
   - Python/Django/Flask/Fast API
   - Node & Express.js, Nest
   - Golang
+  - Java / Spring Boot
   - SQL and NoSQL (MySQL, MSSQL, PostgreSQL, MongoDB, Oracle, Redis)
   - Automated software testing
 
