@@ -4,11 +4,15 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
     
     
-      Equipped with over a decade of experience in software technology, I possess extensive expertise in a broad range of applications, particularly website applications.
-      Having handled numerous projects from inception to completion, my skills extend beyond software development to include project management, business finance, and computer programming.
-      My proficiency in Agile/Scrum methodologies has been honed through my hands-on experience with tools like JIRA, Trello, and GitHub.
+      Equipped with over a decade of experience in software technology, I possess extensive expertise in a broad range of 
+      applications, particularly website applications.
+      Having handled numerous projects from inception to completion, my skills extend beyond software development to 
+      include project management, business finance, and computer programming.
+      My proficiency in Agile/Scrum methodologies has been honed through my hands-on experience with tools like JIRA, Trello, 
+      and GitHub.
       Additionally, I have noteworthy experience in DevOps engineering, utilizing platforms such as Docker, AWS, and GCP.
-      Passionate about leveraging technology to enhance business operations and drive innovations, I firmly believe that it’s never too late to make a positive impact on the world.
+      Passionate about leveraging technology to enhance business operations and drive innovations, I firmly believe that 
+      it’s never too late to make a positive impact on the world.
       I am ready and eager to apply my skills and experiences to new challenges.
 
       📫 How to reach me: webdevguy85@gmail.com
