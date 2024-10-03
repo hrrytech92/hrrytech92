@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
-<div style="display: flex">
+<!--<div style="display: flex">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="400px"  />
     
     
@@ -20,7 +20,7 @@
       I am ready and eager to apply my skills and experiences to new challenges.
       📫 How to reach me: webdevguy85@gmail.com
   
-</div>
+</div>-->
 
 <img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
 
