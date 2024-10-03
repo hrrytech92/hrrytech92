@@ -48,6 +48,13 @@
   - Solidity, Smart contract, ERC20, ERC721
   - Integration with crypto wallets such as Metamask. -->
 
+  ✅ AI/LLM
+  - AI Chatbot
+  - AI Voice Agent
+  - Machine Learning
+  - Pinecone
+  - TTS/STT
+  - OpenAI
 
   ✅ Cloud/DevOps
   - Docker, Docker Composer
