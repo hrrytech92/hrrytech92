@@ -36,7 +36,6 @@
   ✅ Backend Skill 
   - Python/Django/Flask/Fast API
   - Node & Express.js, Nest
-  - Golang
   - Java / Spring Boot
   - SQL and NoSQL (MySQL, MSSQL, PostgreSQL, MongoDB, Oracle, Redis)
   - Automated software testing
@@ -55,6 +54,7 @@
   - Pinecone
   - TTS/STT
   - OpenAI
+  - Voip
 
   ✅ Cloud/DevOps
   - Docker, Docker Composer
@@ -66,7 +66,6 @@
   - JIRA
   - Trello
   - Github
-  - Slack
   
 ---
 
