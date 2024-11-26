@@ -54,7 +54,7 @@
   - Pinecone
   - TTS/STT
   - OpenAI
-  - Voip
+  - VOIP
 
   ✅ Cloud/DevOps
   - Docker, Docker Composer
