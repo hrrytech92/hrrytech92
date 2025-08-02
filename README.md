@@ -46,7 +46,7 @@
   - DApps development ; Solidity/Rust + web3.js/ethers.js
   - Solidity, Smart contract, ERC20, ERC721
   - Integration with crypto wallets such as Metamask. -->
-
+<!--
   ✅ AI/LLM
   - AI Chatbot
   - AI Voice Agent
@@ -68,10 +68,12 @@
   - Github
   
 ---
-
 <!--<div align="center"><img src="./src/assets/animation.gif" width="30%"/></div>-->
 
 <img src="./src/assets/snake.svg" width="100%" max-width="100%"/>
+-->
+
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
