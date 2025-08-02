@@ -70,7 +70,6 @@
 <!--<div align="center"><img src="./src/assets/animation.gif" width="30%"/></div>-->
 
 <!--<img src="./src/assets/snake.svg" width="100%" max-width="100%"/>-->
--->
 
 <!--
 **TechWebGuy/TechWebGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
