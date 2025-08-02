@@ -21,7 +21,7 @@
       📫 How to reach me: webdevguy85@gmail.com
   
 </div>-->
-
+<!--
 <img src="./src/assets/wave.svg" width="100%" max-width="100%"/>
 
 
@@ -137,7 +137,8 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="100"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>    
    </tr>
-</table>
+</table
+-->
 
 ---
 
